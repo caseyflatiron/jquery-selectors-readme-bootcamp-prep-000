@@ -1,6 +1,6 @@
 // declare your functions here...
   
-    console.log('here')
+console.log('here')
     
 function paragraphSelector() {
   return $('p')
