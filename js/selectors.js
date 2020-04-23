@@ -1,8 +1,9 @@
 // declare your functions here...
   
+    console.log('here')
+    
 function paragraphSelector() {
   return $('p')
-  console.log('here')
 }
 
 function lastImageSelector() {
